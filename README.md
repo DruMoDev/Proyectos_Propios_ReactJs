@@ -7,7 +7,7 @@
 ### [Proyecto 30: Tienda de Comida](https://tienda-y-paneldeadministracion-dru.vercel.app/)
 Tienda de comidad donde poder realizar pedido en tiempo real, con panel de adminsitración ("/administracion") para gestionar los pedidos que se almacenan en una base de datos. Front-end craedo con React.js y Tailwind CSS. Back-end y DB creado con Prisma y MongoDB.
 
-### [Proyecto 24: GuitarLA]
+### Proyecto 24: GuitarLA
 E-commerce de guitarras con todas las funcionalidades. Front-end creado 3 veces con diferentes frameworks (Astro, Remix y Next.js). Back-end y DB creado con Strapi y PostgresSQL.
 
 ## ¿Cómo explorar?
